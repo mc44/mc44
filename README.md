@@ -2,10 +2,7 @@
 
 backend / full-stack developer focused on **java, spring boot, and scalable backend systems**
 
-i like building things that are:
-- secure
-- boring (in the good way)
-- 
+i like building systems based on real production practices
 
 ---
 
@@ -25,6 +22,6 @@ i like building things that are:
 ---
 
 ### 📫 reach me
-- portfolio: mfajardo.com
+- portfolio: [mfajardo.com](https://mfajardo.com)
 - email: marcfajardo14@gmail.com
-- linkedin: linkedin.com/in/marc-fajardo-1b9412222
+- linkedin: [marcfajardo](linkedin.com/in/marc-fajardo-1b9412222)
