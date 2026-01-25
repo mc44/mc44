@@ -2,8 +2,6 @@
 
 backend / full-stack developer focused on **java, spring boot, and scalable backend systems**
 
-i like building systems based on real production practices
-
 ---
 
 ### 🛠 tech stack
