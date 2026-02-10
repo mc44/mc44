@@ -6,9 +6,9 @@ backend / full-stack developer focused on **java, spring boot, and scalable back
 
 ### 🛠 tech stack
 - java, spring boot, spring security, jpa
-- postgresql, mysql, redis
+- postgresql, mysql, redis, supabase, firebase
 - jwt, oauth2, session management
-- docker, aws
+- aws, docker
 - next.js
 
 ---
@@ -16,6 +16,7 @@ backend / full-stack developer focused on **java, spring boot, and scalable back
 ### 📈 currently
 - improving system design skills
 - load testing & performance tuning
+- adding features to my nextjs/supabase app [weekly.mfajardo.com](https://weekly.mfajardo.com)
 
 ---
 
