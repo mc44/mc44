@@ -23,14 +23,14 @@ backend / full-stack developer focused on **java, spring boot, and scalable back
 | focus — todo + time focus | [focus.mfajardo.com](https://focus.mfajardo.com) |
 | spring boot starter | [github.com/mc44/spring-backend-starter](https://github.com/mc44/spring-backend-starter) |
 | multi-tenant auth service | [github.com/mc44/auth-service](https://github.com/mc44/auth-service) |
-| blog cms (microservices) | [github.com/mc44/blog-cms-microservices](https://github.com/mc44/blog-cms-microservices) · [blog.mfajardo.com](https://blog.mfajardo.com) *(planned)* |
+| blog cms (microservices) | [blog.mfajardo.com](https://blog.mfajardo.com) · [github.com/mc44/blog-cms-microservices](https://github.com/mc44/blog-cms-microservices) |
 
 ---
 
 ### 📈 currently
 
 - shipping focus + weekly on the same next.js stack
-- dockerized auth and cms services on a vultr vps
+- blog cms live at [blog.mfajardo.com](https://blog.mfajardo.com) — dockerized microservices on a vultr vps
 - improving system design and backend depth
 
 ---
